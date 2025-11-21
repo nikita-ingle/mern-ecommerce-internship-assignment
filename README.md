@@ -4,28 +4,28 @@ An intuitive, full-stack eCommerce application built with the MERN stack (MongoD
 
 Features
 
-Frontend (React)
-Clean, modern, responsive UI
-Product listing grid with images
-Product details page
-Add to cart functionality
-Authentication (Login/Register)
-Axios for API calls
-Route protection
-Loading & error handling
+>Frontend (React)
+-Clean, modern, responsive UI
+-Product listing grid with images
+-Product details page
+-Add to cart functionality
+-Authentication (Login/Register)
+-Axios for API calls
+-Route protection
+-Loading & error handling
 
-Backend (Node + Express)
-JWT Authentication
-Routes for Auth, Products, Cart
-Seed script to preload database with 10 products
-Static file serving for images
-MongoDB using Mongoose
-Secure hashed passwords
+>Backend (Node + Express)
+-JWT Authentication
+-Routes for Auth, Products, Cart
+-Seed script to preload database with 10 products
+-Static file serving for images
+-MongoDB using Mongoose
+-Secure hashed passwords
 
-Database
-Users Collection
-Products Collection
-Seeded data with:
+>Database
+-Users Collection
+-Products Collection
+-Seeded data with:
 ✔ Name
 ✔ Description
 ✔ Price
